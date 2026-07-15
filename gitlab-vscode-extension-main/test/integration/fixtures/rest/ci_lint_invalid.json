@@ -1,5 +1,0 @@
-{
-  "valid": false,
-  "errors": ["jobs:test config contains unknown keys: scccript"],
-  "warnings": []
-}

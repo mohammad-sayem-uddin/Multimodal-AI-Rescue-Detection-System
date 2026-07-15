@@ -1,9 +1,0 @@
-{
-  "project": {
-    "mergeRequest": {
-      "userPermissions": {
-        "createNote": true
-      }
-    }
-  }
-}
